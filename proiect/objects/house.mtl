@@ -1,0 +1,232 @@
+# Blender MTL File: 'projiproject.blend'
+# Material Count: 21
+
+newmtl Bark
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.176206 0.051816 0.016055
+Ks 0.007806 0.007806 0.007806
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Leaves
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.029850 0.106291 0.017666
+Ks 0.171879 0.171879 0.171879
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\GP\\b\\b\\objects\\final_scene\\Ground_Albedo.tga.png
+
+newmtl Material.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\GP\\b\\b\\objects\\final_scene\\waterr.jpg
+
+newmtl Material.007
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\Project\\stones\\textures\\Stone_06_UV_H_CM_1.jpg
+
+newmtl Material.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\Project\\greystones\\textures\\Cliff (Layered Rock).jpg
+
+newmtl Material.009
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\Project\\stones\\textures\\Craggy_Rock_With_Moss_UV_CM_1.jpg
+
+newmtl Material.010
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\Project\\stones\\textures\\Craggy_Stone_With_Green_Moss_Litchen_UV_CM_1.jpg
+
+newmtl Material.011
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\Project\\stones\\textures\\Very_Craggy_Grey_Rock_Moss_UV_CM_1.jpg
+
+newmtl Material.012
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\Project\\stones\\textures\\Rock_02_UV_H_CM_1.jpg
+
+newmtl Material.013
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\Project\\stones\\textures\\Very_Craggy_Grey_Rock_Moss_UV_CM_1.jpg
+
+newmtl Material.014
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\Project\\stones\\textures\\Craggy_Stone_With_Green_Moss_Litchen_UV_CM_1.jpg
+
+newmtl Material.015
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\GP\\b\\b\\objects\\final_scene\\tent-texture.jpg
+
+newmtl Material.016
+Ns 199.999976
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.097285 0.097285 0.097285
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump D:\\An III\\GP\\b\\b\\objects\\final_scene\\tisch1_n.png
+map_Kd D:\\An III\\GP\\b\\b\\objects\\final_scene\\tisch1.png
+
+newmtl Material.017
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\GP\\helper2\\helper2\\objects\\fire\\fire.png
+
+newmtl Material.018
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\GP\\helper2\\helper2\\objects\\fire\\fire.png
+
+newmtl Material.019
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.195988 0.093497 0.059024
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\GP\\helper2\\helper2\\objects\\fire\\wood.png
+
+newmtl Material__1.001
+Ns 9.803921
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd D:\\An III\\GP\\b\\b\\objects\\final_scene\\Mapa_UV_Textura.jpg
+
+newmtl Textured
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\\An III\\GP\\b\\b\\objects\\final_scene\\texture.jpg
+
+newmtl lambert1.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\An III\\Project\\greystones\\textures\\Craggy_Rock_With_Moss_UV_CM_1.jpg
+
+newmtl rock_big_a_MAT
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\\An III\\GP\\b\\b\\objects\\final_scene\\rock_big_a_d.TGA.png

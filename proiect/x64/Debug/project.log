@@ -1,0 +1,42 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (lab9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+  main.cpp
+D:\An III\GP\LidiaRad_30434_app\project\main.cpp(179,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\An III\GP\LidiaRad_30434_app\project\main.cpp(180,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\An III\GP\LidiaRad_30434_app\project\main.cpp(184,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\An III\GP\LidiaRad_30434_app\project\main.cpp(185,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\An III\GP\LidiaRad_30434_app\project\main.cpp(186,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\An III\GP\LidiaRad_30434_app\project\main.cpp(187,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\An III\GP\LidiaRad_30434_app\project\main.cpp(207,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\An III\GP\LidiaRad_30434_app\project\main.cpp(358,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\An III\GP\LidiaRad_30434_app\project\main.cpp(602,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\An III\GP\LidiaRad_30434_app\project\main.cpp(637,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+D:\An III\GP\LidiaRad_30434_app\project\main.cpp(638,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Model3D.cpp
+D:\An III\GP\LidiaRad_30434_app\project\Mesh.cpp(32,72): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\An III\GP\LidiaRad_30434_app\project\Model3D.cpp(89,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\An III\GP\LidiaRad_30434_app\project\Model3D.cpp(89,40): warning C4267:         with
+D:\An III\GP\LidiaRad_30434_app\project\Model3D.cpp(89,40): warning C4267:         [
+D:\An III\GP\LidiaRad_30434_app\project\Model3D.cpp(89,40): warning C4267:             _Ty=GLuint
+D:\An III\GP\LidiaRad_30434_app\project\Model3D.cpp(89,40): warning C4267:         ]
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Generating Code...
+D:\An III\GP\LidiaRad_30434_app\project\Model3D.cpp(97,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+LINK : warning LNK4286: symbol '__glewActiveTexture' defined in 'libglew32d.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewBindBuffer' defined in 'libglew32d.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewBufferData' defined in 'libglew32d.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewGenBuffers' defined in 'libglew32d.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewEnableVertexAttribArray' defined in 'libglew32d.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewGetUniformLocation' defined in 'libglew32d.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewUniform1i' defined in 'libglew32d.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewVertexAttribPointer' defined in 'libglew32d.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewBindVertexArray' defined in 'libglew32d.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewGenVertexArrays' defined in 'libglew32d.lib(glew.obj)' is imported by 'Mesh.obj'
+LINK : warning LNK4286: symbol '__glewDeleteBuffers' defined in 'libglew32d.lib(glew.obj)' is imported by 'Model3D.obj'
+LINK : warning LNK4286: symbol '__glewGenerateMipmap' defined in 'libglew32d.lib(glew.obj)' is imported by 'Model3D.obj'
+LINK : warning LNK4286: symbol '__glewDeleteVertexArrays' defined in 'libglew32d.lib(glew.obj)' is imported by 'Model3D.obj'
+  project.vcxproj -> D:\An III\GP\LidiaRad_30434_app\project\x64\Debug\project.exe
